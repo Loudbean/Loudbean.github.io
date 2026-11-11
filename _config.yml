@@ -1,0 +1,6 @@
+title: Loudbean
+theme: jekyll-theme-minimal
+# Jekyll skips folders starting with a dot unless told otherwise. iOS needs
+# /.well-known/apple-app-site-association to be served.
+include:
+  - .well-known

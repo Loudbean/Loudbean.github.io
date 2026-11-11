@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["TEAMID.com.example.bubby"],
+        "components": [
+          { "/": "/bubby/epic-callback*", "comment": "Epic MyChart sign-in redirect" }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["TEAMID.com.example.bubby"]
+  }
+}
