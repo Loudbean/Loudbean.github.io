@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["TEAMID.com.example.bubby"],
+        "appIDs": ["LS4AX9P2FU.com.example.bubby"],
         "components": [
           { "/": "/bubby/epic-callback*", "comment": "Epic MyChart sign-in redirect" }
         ]
@@ -10,6 +10,6 @@
     ]
   },
   "webcredentials": {
-    "apps": ["TEAMID.com.example.bubby"]
+    "apps": ["LS4AX9P2FU.com.example.bubby"]
   }
 }
