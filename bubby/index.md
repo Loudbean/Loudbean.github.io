@@ -30,7 +30,7 @@ Delete entries in the app, or delete the app to remove everything stored on the 
 Go to Settings, then Export and Share with Pediatrician. You can share a PDF summary or a CSV of everything you have logged.
 
 **Why can't I start a nap while nursing?**
-Only one of sleep, nursing and pumping can happen at a time. Stop the one that is running first.
+Baby can only do one thing at a time: sleep, nursing, a bottle, solids or a diaper change. Stop the one that is running first. Pumping is the exception. You can pump during any of them.
 
 ## Important
 
