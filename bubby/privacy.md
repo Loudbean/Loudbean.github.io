@@ -25,7 +25,7 @@ If you invite a caregiver, the baby's log is stored in your private iCloud (Appl
 
 ## Importing growth from a health record (optional)
 
-If you choose "Import Growth from MyChart", you sign in on your healthcare provider's own MyChart page (the app opens it in a secure browser window). The app receives a temporary access permission and reads your child's weight, length and head-circumference measurements once. They are saved on your iPhone. The app does not store your MyChart sign-in or the access permission, and nothing from the import is sent to us. Your provider's own privacy policy applies to your health record.
+If you choose "Import Growth from MyChart", you sign in on your healthcare provider's own MyChart page (the app opens it in a secure browser window). The app receives a temporary access permission and reads your child's weight, length and head-circumference measurements once. They are saved on your iPhone. To let you choose your clinic, the app downloads Epic's public list of clinics (open.epic.com); nothing about you or your child is sent in that request. The app does not store your MyChart sign-in or the access permission, and nothing from the import is sent to us. Your provider's own privacy policy applies to your health record.
 
 ## Notifications, widgets and Live Activities
 
