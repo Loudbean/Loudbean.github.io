@@ -7,7 +7,7 @@ title: Bubby Terms of Use
 
 Last updated: 2026-11-11
 
-These terms apply to your use of Bubby ("the app"), published by [YOUR NAME OR COMPANY] ("we"). By using the app you agree to them.
+These terms apply to your use of Bubby ("the app"), published by [Logan Zettlemoyer] ("we"). By using the app you agree to them.
 
 ## Using the app
 
@@ -39,5 +39,5 @@ We may update these terms. Continued use after an update means you accept it.
 
 ## Contact
 
-[YOUR NAME OR COMPANY]
-[YOUR CONTACT EMAIL]
+[Logan Zettlemoyer]
+[remembersome1@icloud.com]
