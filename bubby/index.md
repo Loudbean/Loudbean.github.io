@@ -11,9 +11,9 @@ Your information stays on your iPhone and in your own iCloud. See the [Privacy P
 
 ## Get help
 
-Email: [YOUR CONTACT EMAIL]
+Email: remembersome1@icloud.com
 
-We aim to reply within [NUMBER] business days.
+We aim to reply within [3] business days.
 
 ## Common questions
 
@@ -28,9 +28,6 @@ Delete entries in the app, or delete the app to remove everything stored on the 
 
 **How do I get a report for the pediatrician?**
 Go to Settings, then Export and Share with Pediatrician. You can share a PDF summary or a CSV of everything you have logged.
-
-**Why can't I start a nap while nursing?**
-Baby can only do one thing at a time: sleep, nursing, a bottle, solids or a diaper change. Stop the one that is running first. Pumping is the exception. You can pump during any of them.
 
 ## Important
 
