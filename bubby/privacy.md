@@ -17,7 +17,7 @@ Bubby ("the app") is published by [YOUR NAME OR COMPANY] ("we"). This page expla
 
 ## What the app stores
 
-When you use the app you may enter: your baby's name, birth date and (optionally) sex and photo; feeds, sleep, diapers, pumping and growth measurements; and notes. This is stored in the app's database on your iPhone.
+When you use the app you may enter: your baby's name, birth date and (optionally) sex and photo; feeds, sleep, diapers, pumping and growth measurements; and notes. If you choose to enter a name for yourself in Settings, it is saved with the entries you log so other caregivers can see who logged them. This is stored in the app's database on your iPhone.
 
 ## Sharing with caregivers (iCloud)
 
