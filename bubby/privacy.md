@@ -7,7 +7,7 @@ title: Bubby Privacy Policy
 
 Last updated: 2026-11-11
 
-Bubby ("the app") is published by [YOUR NAME OR COMPANY] ("we"). This page explains what information the app handles and where it goes. Contact: [YOUR CONTACT EMAIL].
+Bubby ("the app") is published by [Logan Zettlemoyer] ("we"). This page explains what information the app handles and where it goes. Contact: remembersome1@icloud.com.
 
 ## The short version
 
