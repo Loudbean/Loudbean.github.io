@@ -11,7 +11,7 @@ Your information stays on your iPhone and in your own iCloud. See the [Privacy P
 
 ## Get help
 
-Email: remembersome1@icloud.com
+Email: ljzettlemoyer@icloud.com
 
 We aim to reply within [3] business days.
 
