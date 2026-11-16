@@ -40,4 +40,4 @@ We may update these terms. Continued use after an update means you accept it.
 ## Contact
 
 [Logan Zettlemoyer]
-[remembersome1@icloud.com]
+[ljzettlemoyer@icloud.com]
