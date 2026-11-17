@@ -141,7 +141,7 @@ main { padding-top: clamp(2.75rem, 6vw, 5rem); }
 @media (hover: hover) {
   .card:hover .appicon { transform: scale(1.08) rotate(-2deg); }
   .card:hover .cta { color: var(--accent); }
-  .card:hover .cta span { transform: translateX(4px); }
+  .card:hover .cta .arrow { transform: translateX(4px); }
 }
 
 .title { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.75rem; margin-bottom: 0.6rem; }
@@ -161,9 +161,10 @@ main { padding-top: clamp(2.75rem, 6vw, 5rem); }
 .pill-soon { color: var(--soon); }
 
 .inner p { max-width: 30rem; color: var(--soft); }
+.inner .short { display: none; }
 
 .cta { margin-top: auto; padding-top: 1.25rem; font-weight: 600; font-size: 0.9375rem; transition: color 0.2s; }
-.cta span { display: inline-block; transition: transform 0.3s; }
+.cta .arrow { display: inline-block; transition: transform 0.3s; }
 
 /* Recently: a quiet list of updates */
 .recent { margin-bottom: clamp(3rem, 7vw, 5rem); }
@@ -182,17 +183,16 @@ main { padding-top: clamp(2.75rem, 6vw, 5rem); }
 
 .log li {
   display: grid;
-  grid-template-columns: 2.75rem minmax(0, 1fr) auto;
-  gap: 1.125rem;
+  grid-template-columns: 2rem minmax(0, 1fr) auto;
+  gap: 1rem;
   align-items: center;
-  padding: 0.85rem 1rem;
+  padding: 0.6rem 1rem;
   border-radius: 0.875rem;
 }
 .log li:nth-child(odd) { background: var(--row); }
 
-.log img { width: 2.75rem; height: 2.75rem; border-radius: 22.5%; }
-.log h3 { font-size: 1.0625rem; font-weight: 600; line-height: 1.3; letter-spacing: -0.01em; }
-.log p { color: var(--soft); font-size: 0.9375rem; line-height: 1.45; }
+.log img { width: 2rem; height: 2rem; border-radius: 22.5%; }
+.log h3 { font-size: 1rem; font-weight: 600; line-height: 1.3; letter-spacing: -0.01em; }
 .log time { color: var(--soft); font-size: 0.875rem; font-variant-numeric: tabular-nums; white-space: nowrap; }
 
 /* Footer */
@@ -208,20 +208,24 @@ main { padding-top: clamp(2.75rem, 6vw, 5rem); }
 }
 
 @media (max-width: 860px) {
-  .row { flex-direction: column; }
-  /* Stacked: let each card take its natural height (a 0 basis would collapse it). */
-  .card { flex: none; }
   .hello { padding-inline: 1rem; }
 }
 
-@media (max-width: 520px) {
+/* Phones: keep the apps side by side as compact cards with a one-line description. */
+@media (max-width: 640px) {
   .topbar { padding-inline: 1rem; }
   .nav { gap: 0.875rem; }
-  .inner { padding: 1.5rem 1.375rem 1.375rem; }
-  .appicon { width: 4.75rem; height: 4.75rem; }
-  .log li { grid-template-columns: 2.25rem minmax(0, 1fr); align-items: start; gap: 0.875rem; padding-inline: 0.75rem; }
-  .log img { width: 2.25rem; height: 2.25rem; }
-  .log time { grid-column: 2; grid-row: 2; margin-top: -0.5rem; }
+  .row { gap: 0.75rem; }
+  .card { border-radius: 1.125rem; }
+  .inner { padding: 1.125rem 1rem 1rem; }
+  .appicon { width: 3.75rem; height: 3.75rem; margin-bottom: 0.875rem; }
+  .title { flex-direction: column; align-items: flex-start; gap: 0.35rem; }
+  .title h2 { font-size: 1.375rem; }
+  .pill { font-size: 0.75rem; padding: 0.15rem 0.55rem; }
+  .inner .long { display: none; }
+  .inner .short { display: block; font-size: 0.9375rem; line-height: 1.4; }
+  .cta { padding-top: 0.875rem; font-size: 0.875rem; }
+  .cta-full { display: none; }
 }
 
 @media (prefers-reduced-motion: reduce) {
